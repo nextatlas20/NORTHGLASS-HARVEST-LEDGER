@@ -1,0 +1,4 @@
+bed_id,cultivar,planned_kg,accepted_kg,variance_kg,status
+BD-101,Alba,120.00,48.50,-71.50,UNDER_PLAN
+BD-102,Brio,80.00,55.00,-25.00,UNDER_PLAN
+BD-103,Cora,100.00,101.25,1.25,OVER_PLAN
